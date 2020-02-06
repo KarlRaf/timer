@@ -20,7 +20,7 @@ class View extends Component {
       <Provider store={store}>
         <div className="container">
           <div className="timers-container">
-            <Timer defaultName="Timer 1" />
+            <Timer defaultName="Timer 12" />
             <Timer defaultName="Timer 2" />
             <Timer defaultName="Timer 3" />
             <Timer defaultName="Timer 4" />
