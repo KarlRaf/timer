@@ -26,14 +26,6 @@ class View extends Component {
             <Timer defaultName="Timer 4" />
           </div>
         </div>
-        <div className="container">
-          <div className="timers-container">
-            <Timer defaultName="Timer 5" />
-            <Timer defaultName="Timer 6" />
-            <Timer defaultName="Timer 7" />
-            <Timer defaultName="Timer 8" />
-          </div>
-        </div>
       </Provider>
     );
   }
